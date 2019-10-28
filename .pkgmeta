@@ -1,0 +1,4 @@
+package-as: qrcode-wow
+enable-nolib-creation: false
+ignore:
+  - README.markdown
