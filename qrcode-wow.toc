@@ -1,0 +1,8 @@
+## Interface: 80205
+## Title: QRCode for WOW
+## Notes: Create QRCode in game Feedback farmer1992@gmail.com
+## Author: Boshi Lian
+## Version: @project-version@
+
+qrencode.lua
+core.lua
