@@ -41,7 +41,7 @@ local function CreateQRTip(qrsize)
             insets = { left = 4, right = 4, top = 4, bottom = 4 },    
         })
 
-        f:SetBackdropColor(0, 0, 0);
+        f:SetBackdropColor(1, 1, 1);
 
         f:SetPoint("CENTER", 0, 0)
         f:RegisterForDrag("LeftButton") 
